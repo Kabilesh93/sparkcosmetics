@@ -1,0 +1,300 @@
+- - What type of products available?
+  - We have products related to cosmetics!
+- - What are the flavors of powder available?
+  - Lime,sandal,baby and herbal
+- - I want to buy a powder?
+  - These are the details of powder avaible in our market.
+- - tell me about powder?
+  - These are the details of powders avaible in our market.
+- - what is the price of a powder?
+  - These are the price details of powders avaible in our market.
+- - I want a powder?
+  - These are the details of powder avaible in our market.
+- - Tell me about powders?
+  - These are the details of powders avaible in our market.
+- - show me some types of powders?
+  - Lime,sandal,baby and herbal
+- - show me the types of powdders?
+  - Lime,sandal,baby and herbal
+- - show me the types of powders available?
+  - Lime,sandal,baby and herbal
+- - What are the names of the powder you have?
+  - Lime,sandal,baby and herbal
+- - Name of powders available?
+  - Lime,sandal,baby and herbal
+- - Name of powders you have?
+  - Lime,sandal,baby and herbal
+- - For what skin type, this powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What skin type, this powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What skin type, the powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What is the price of the powder?
+  - These are the price details and relevent powder brands.
+- - What’s the price of the powder?
+  - These are the price details and relevent powder brands.
+- - What is the price of this powder?
+  - These are the price details and relevent powder brands.
+- - What’s the price of this powder?
+  - These are the price details and relevent powder brands.
+- - Price of the powder?
+  - These are the price details and relevent powder brands.
+- - Price of this powder?
+  - These are the price details and relevent powder brands.
+- - Price of powder?
+  - These are the price details and relevent powder brands.
+- - What are the price of powders?
+  - These are the price details and relevent powder brands.
+- - What are the price of powders available?
+  - These are the price details and relevent powder brands.
+- - What are the ingredients in this powder?
+  - These are the Ingredients details.
+- - The ingredients of this powder?
+  - These are the Ingredients details.
+- - This powder contains what?
+  - These are the Ingredients details.
+- - The ingredients of the powder?
+  - These are the Ingredients details.
+- - What are the natural ingredients of this powder?
+  - These are the Ingredients details.
+- - What are the artificial ingredients of this powder?
+  - These are the Ingredients details.
+- - What does this powder contain?
+  - These are the Ingredients details.
+- - What is the special in this powder?
+  - These are special features.
+- - What’s the best in this powder?
+  - These are special features.
+- - I want a baby powder?
+  - These are the details of baby powder.
+- - I want a lime powder?
+  - These are the details of lime powder.
+- - I want a herbal powder?
+  - These are the details of herbal powder.
+- - I want a sandal powder?
+  - These are the details of sandal powdere.
+- - what is the price of a baby powder?
+  - These are the price details of baby powder.
+- - what is the price of a lime powder?
+  - These are the details of lime powder.
+- - what is the price of a herbal powder?
+  - These are the price details of herbal powder.
+- - what is the price of a baby powder?
+  - These are the price details of sandal powder.
+- - Is there any discount for this powder?
+  - yes, These are the discount details of powders
+- - Any discount for this powder?
+  - yes, These are the discount details of powders
+- - Do you offer any discount for this powder?
+  - yes, These are the discount details of powders
+- - Do you offer any discount for powders?
+  - yes, These are the discount details of powders
+- - Do you give a discount for powders?
+  - yes, These are the discount details of powders
+- - Do you give a discount for this powder?
+  - yes, These are the discount details of powders
+- - What are the brands of powders available?
+  - these are the brands details of powders available in our market.
+
+- - What type of products available?
+  - We have products related to cosmetics!
+- - What are the flavors of powder available?
+  - Lime,sandal,baby and herbal
+- - I want to buy a powder?
+  - These are the details of powder avaible in our market.
+- - tell me about powder?
+  - These are the details of powders avaible in our market.
+- - what is the price of a powder?
+  - These are the price details of powders avaible in our market.
+- - I want a powder?
+  - These are the details of powder avaible in our market.
+- - Tell me about powders?
+  - These are the details of powders avaible in our market.
+- - show me some types of powders?
+  - Lime,sandal,baby and herbal
+- - show me the types of powdders?
+  - Lime,sandal,baby and herbal
+- - show me the types of powders available?
+  - Lime,sandal,baby and herbal
+- - What are the names of the powder you have?
+  - Lime,sandal,baby and herbal
+- - Name of powders available?
+  - Lime,sandal,baby and herbal
+- - Name of powders you have?
+  - Lime,sandal,baby and herbal
+- - For what skin type, this powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What skin type, this powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What skin type, the powder can be used?
+  - These are the Skin types and relevent powder brands.
+- - What is the price of the powder?
+  - These are the price details and relevent powder brands.
+- - What’s the price of the powder?
+  - These are the price details and relevent powder brands.
+- - What is the price of this powder?
+  - These are the price details and relevent powder brands.
+- - What’s the price of this powder?
+  - These are the price details and relevent powder brands.
+- - Price of the powder?
+  - These are the price details and relevent powder brands.
+- - Price of this powder?
+  - These are the price details and relevent powder brands.
+- - Price of powder?
+  - These are the price details and relevent powder brands.
+- - What are the price of powders?
+  - These are the price details and relevent powder brands.
+- - What are the price of powders available?
+  - These are the price details and relevent powder brands.
+- - What are the ingredients in this powder?
+  - These are the Ingredients details.
+- - The ingredients of this powder?
+  - These are the Ingredients details.
+- - This powder contains what?
+  - These are the Ingredients details.
+- - The ingredients of the powder?
+  - These are the Ingredients details.
+- - What are the natural ingredients of this powder?
+  - These are the Ingredients details.
+- - What are the artificial ingredients of this powder?
+  - These are the Ingredients details.
+- - What does this powder contain?
+  - These are the Ingredients details.
+- - What is the special in this powder?
+  - These are special features.
+- - What’s the best in this powder?
+  - These are special features.
+- - I want a baby powder?
+  - These are the details of baby powder.
+- - I want a lime powder?
+  - These are the details of lime powder.
+- - I want a herbal powder?
+  - These are the details of herbal powder.
+- - I want a sandal powder?
+  - These are the details of sandal powdere.
+- - what is the price of a baby powder?
+  - These are the price details of baby powder.
+- - what is the price of a lime powder?
+  - These are the details of lime powder.
+- - what is the price of a herbal powder?
+  - These are the price details of herbal powder.
+- - what is the price of a baby powder?
+  - These are the price details of sandal powder.
+- - Is there any discount for this powder?
+  - yes, These are the discount details of powders
+- - Any discount for this powder?
+  - yes, These are the discount details of powders
+- - Do you offer any discount for this powder?
+  - yes, These are the discount details of powders
+- - Do you offer any discount for powders?
+  - yes, These are the discount details of powders
+- - Do you give a discount for powders?
+  - yes, These are the discount details of powders
+- - Do you give a discount for this powder?
+  - yes, These are the discount details of powders
+- - What are the brands of powders available?
+  - these are the brands details of powders available in our market.
+
+- - What type of products available?
+  - We have products related to cosmetics!
+- - What are the flavors of soaps available?
+  - Lime,sandal,baby and herbal
+- - I want to buy a soap?
+  - These are the details of  soaps avaible in our market.
+- - tell me about soaps?
+  - These are the details of soaps avaible in our market.
+- - what is the price of a soap?
+  - These are the details of soaps avaible in our market.
+- - I want a soap?
+  - These are the details of soaps avaible in our market.
+- - Tell me about soaps?
+  - These are the details of soaps avaible in our market.
+- - show me some types of soaps?
+  - Lime,sandal,baby and herbal
+- - show me the types of soaps?
+  - Lime,sandal,baby and herbal
+- - show me the types of soaps available?
+  - Lime,sandal,baby and herbal
+- - What are the names of the soap you have?
+  - Lime,sandal,baby and herbal
+- - Name of soaps available?
+  - Lime,sandal,baby and herbal
+- - Name of soaps you have?
+  - Lime,sandal,baby and herbal
+- - For what skin type, this soap can be used?
+  - These are the Skin types and relevent soap brands.
+- - What skin type, this soap can be used?
+  - These are the Skin types and relevent soap brands.
+- - What skin type, the soap can be used?
+  - These are the Skin types and relevent soap brands.
+- - What is the price of the soap?
+  - These are the price details and relevent soap brands.
+- - What’s the price of the soap?
+  - These are the price details and relevent soap brands.
+- - What is the price of this soap?
+  - These are the price details and relevent soap brands.
+- - What’s the price of this soap?
+  - These are the price details and relevent soap brands.
+- - Price of the soap?
+  - These are the price details and relevent soap brands.
+- - Price of this soap?
+  - These are the price details and relevent soap brands.
+- - Price of soaps?
+  - These are the price details and relevent soap brands.
+- - What are the price of soaps?
+  - These are the price details and relevent soap brands.
+- - What are the price of soaps available?
+  - These are the price details and relevent soap brands.
+- - What are the ingredients in this soap?
+  - These are the Ingredients details.
+- - The ingredients of this soap?
+  - These are the Ingredients details.
+- - This soap contains?
+  - These are the Ingredients details.
+- - The ingredients of the soap?
+  - These are the Ingredients details.
+- - What are the natural ingredients of this soap?
+  - These are the Ingredients details.
+- - What are the artificial ingredients of this soap?
+  - These are the Ingredients details.
+- - What does this soap contain?
+  - These are the Ingredients details.
+- - What is the special in this soap?
+  - These are special features.
+- - What’s the best in this soap?
+  - These are special features.
+- - I want a baby soap?
+  - These are the details of baby soap.
+- - I want a lime soap?
+  - These are the details of lime soap.
+- - I want a herbal soap?
+  - These are the details of herbal soaps.
+- - I want a sandal soap?
+  - These are the details of sandal soap.
+- - what is the price of a baby soap?
+  - These are the price details of baby soap.
+- - what is the price of a lime soap?
+  - These are the details of lime soap.
+- - what is the price of a herbal soap?
+  - These are the price details of herbal soaps.
+- - what is the price of a baby soap?
+  - These are the price details of sandal soap.
+- - Is there any discount for this soap?
+  - yes, These are the discount details of soaps
+- - Any discount for this?
+  - yes, These are the discount details of soaps
+- - Do you offer any discount for this soap?
+  - yes, These are the discount details of soaps
+- - Do you offer any discount for soaps?
+  - yes, These are the discount details of soaps
+- - Do you give a discount for soaps?
+  - yes, These are the discount details of soaps
+- - Do you give a discount for this?
+  - yes, These are the discount details of soaps
+- - What are the brands of soaps available?
+  - these are the brands details of soaps available in our market.
+- - I want discount for this soap?
+  - These are the discount details for soaps
+- - I need discount for soaps?
+  - These are the discount details for soaps

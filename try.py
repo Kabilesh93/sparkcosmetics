@@ -1,0 +1,54 @@
+from sklearn import datasets
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+from sklearn import svm
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+
+def imagePridiction(sample_input):
+
+# Load dataset
+    iris = datasets.load_iris()
+    data1 = pd.read_csv("data_collected.csv", header=0)
+
+# Define the categories
+    X = data1[['Ad1 [Product is displayed in smaller size]',
+               'Ad1 [Ad with the brand name]',
+               'Ad1 [Displaying with quote]',
+               'Ad1 [Model wearing the product]',
+               'Ad1 [Showing the outcome of using the product]']]  # Features
+    y = data1['Ad1 [How much you like this ad]']  # Labels
+
+    # sample_input = [[1, 1, 1, 1, 1]]
+
+# Split dataset into training set and test set
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0) # 70% training and 30% test
+
+
+# Train with RandomForestClassifier
+    clf = RandomForestClassifier(n_estimators=100)
+    clf.fit(X_train,y_train)
+    y_pred = clf.predict(X_test)
+    y_pred2 = clf.predict(sample_input)
+
+    print(confusion_matrix(y_test, y_pred))
+    print(classification_report(y_test, y_pred))
+    print(metrics.accuracy_score(y_test, y_pred))
+    print(y_pred2)
+
+# Train with SVM
+#     SVM = svm.LinearSVC()
+#     SVM.fit(X_train, y_train)
+#     y_pred = SVM.predict(X_test)
+#     y_pred2 = SVM.predict(sample_input)
+#
+#     print(confusion_matrix(y_test, y_pred))
+#     print(classification_report(y_test, y_pred))
+#     print(accuracy_score(y_test, y_pred))
+#     print(y_pred2)
+
+    return y_pred2
+
+out = imagePridiction([[1, 5, 1, 5, 1]])
+# print(out)
